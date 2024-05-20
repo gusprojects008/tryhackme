@@ -1,0 +1,25 @@
+HTTP/1.1 302 Found
+Date: Mon, 20 May 2024 00:52:39 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Location: agent_C_attention.php
+Content-Length: 218
+Content-Type: text/html; charset=UTF-8
+
+
+<!DocType html>
+<html>
+<head>
+	<title>Annoucement</title>
+</head>
+
+<body>
+<p>
+	Dear agents,
+	<br><br>
+	Use your own <b>codename</b> as user-agent to access the site.
+	<br><br>
+	From,<br>
+	Agent R
+</p>
+</body>
+</html>
