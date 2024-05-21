@@ -1,0 +1,17 @@
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+based on steghide version 0.5.1
+
+[v] Using stegofile "cute-alien.jpg".
+[v] Running on 16 threads.
+[v] Using wordlist file "../../../Downloads/rockyou.txt".
+[v] Added password guess: "".
+[v] Added password guess: "cute-alien.jpg".
+[v] Added password guess: "cute-alien".
+[i] Found passphrase: "Area51"           
+[v] reading stego file "cute-alien.jpg"...done.
+[v] extracting data...done.
+[v] checking crc32 checksum... ok
+[i] Original filename: "message.txt".
+[i] Extracting to "cute-alien.jpg.out".
+the file "cute-alien.jpg.out" does already exist. overwrite ? (y/n) 
+y
